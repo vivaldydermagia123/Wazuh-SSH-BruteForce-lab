@@ -2,7 +2,7 @@
 this project demonstrating SSH Bruteforce detection using Wazuh SIEM
 
 ## Objective
-Simulate an SSH brute force attack and detect it using Wazuh SIEM to demonstrate SOC monitoring and analysis skills.
+Simulate an SSH brute force attack and detect it using Wazuh SIEM to demonstrate monitoring and analysis skills using Wazuh SIEM
 
 ## Environment
 - Ubuntu 24.04
