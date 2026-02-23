@@ -19,6 +19,7 @@ Simulate an SSH brute force attack and detect it using Wazuh SIEM to demonstrate
 - Wazuh Rules:
   - 5710: Attempt to login using a non-existent user (Level 5)
   - 5715: Multiple authentication failures (Level 8)
+  - 5763: SSH brute force detected via correlation (Level 10)
 
 ## Analysis
 - Repeated failed authentication attempts indicate a brute force attempt
