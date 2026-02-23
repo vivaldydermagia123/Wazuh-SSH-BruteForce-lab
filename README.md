@@ -32,4 +32,15 @@ Simulate an SSH brute force attack and detect it using Wazuh SIEM to demonstrate
   - Use key-based authentication
 
 ## Evidence
-See screenshots folder for attack and detection evidence.
+
+### SSH Brute Force Simulation (Terminal)
+![SSH Brute Force](pict1.png)
+
+### Wazuh Alert Detection
+![Wazuh Alert Events](pict2.png)
+
+### Wazuh Rule Detail – SSH Brute Force
+![Wazuh Rule Detail](pict3.png)
+
+### Wazuh Dashboard Overview
+![Wazuh Overview](pict4.png)
